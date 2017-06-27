@@ -5,3 +5,5 @@ Do not forgote to add your google firebase credential **google-services.json** f
 You can download this  google firebase credential file from your firebase project console.
 
 Fore more detail you can refer Firebase Phone Authentication (https://firebase.google.com/docs/auth/android/phone-auth)
+
+![Screenshot](https://github.com/pithiyasagar/FirebasePhoneAuthentication/blob/master/FirebasePhoneLoginScrrenshot.png)
